@@ -1,4 +1,5 @@
-# NDC London 2024 Workshop
+# Build and Deploy a Fullstack App with Open Source Tooling
+NDC London 2024 Workshop
 
 1. Checkout and install the code:
   ```ts
